@@ -12,29 +12,38 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+![Screenshot 2024-06-14 120429](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Wanguian/assets/170762387/f64c8efd-9b53-4b30-a110-1c48ba34f86d)
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
-3. Set Up Version Control System:
+   ![Screenshot 2024-06-14 120630](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Wanguian/assets/170762387/690ec9c1-d950-480c-a642-e96519a92e14)
+
+4. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+   
+![Screenshot 2024-06-14 120852](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Wanguian/assets/170762387/43caeb02-72ab-4252-86e4-8229c9632ea0)
 
-4. Install Necessary Programming Languages and Runtimes:
+6. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+![Screenshot 2024-06-14 121203](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Wanguian/assets/170762387/1b75ffcd-4649-46d4-9e1a-f7de282913b5)
 
-5. Install Package Managers:
+7. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
-6. Configure a Database (MySQL):
+8. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+![Screenshot 2024-06-14 121631](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Wanguian/assets/170762387/dfbfb7d6-41e5-4028-b5af-fb3f8e0e5d5e)
 
-7. Set Up Development Environments and Virtualization (Optional):
+9. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Wanguian/assets/170762387/fd1f66af-1032-4184-9f70-23aaab53946c)
 
-8. Explore Extensions and Plugins:
+10. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-9. Document Your Setup:
+11. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+[Developer_Environment_Setup_Documentation.pdf](https://github.com/user-attachments/files/15836471/Developer_Environment_Setup_Documentation.pdf)
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
